@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png"><SubTexture name="Eevee idle0000" x="0" y="0" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0001" x="330" y="0" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0002" x="660" y="0" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0003" x="990" y="0" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0004" x="1320" y="0" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0005" x="1650" y="0" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0006" x="1980" y="0" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0007" x="2310" y="0" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0008" x="0" y="477" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0009" x="330" y="477" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0010" x="660" y="477" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="Eevee idle0011" x="990" y="477" width="330" height="477" frameX="0" frameY="0" frameWidth="330" frameHeight="477" />
+<SubTexture name="BF HEY!!0000" x="1719" y="477" width="399" height="420" frameX="0" frameY="0" frameWidth="399" frameHeight="420" />
+<SubTexture name="BF HEY!!0001" x="1719" y="477" width="399" height="420" frameX="0" frameY="0" frameWidth="399" frameHeight="420" />
+<SubTexture name="BF HEY!!0002" x="2136" y="477" width="417" height="414" frameX="0" frameY="0" frameWidth="417" frameHeight="414" />
+<SubTexture name="BF HEY!!0003" x="2136" y="477" width="417" height="414" frameX="0" frameY="0" frameWidth="417" frameHeight="414" />
+<SubTexture name="BF HEY!!0004" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0005" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0006" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0007" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0008" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0009" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0010" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0011" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0012" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0013" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0014" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0015" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0016" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0017" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0018" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0019" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0020" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0021" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0022" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0023" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0024" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF HEY!!0025" x="2554" y="477" width="418" height="416" frameX="0" frameY="0" frameWidth="418" frameHeight="416" />
+<SubTexture name="BF idle dance white0000" x="2964" y="477" width="410" height="396" frameX="0" frameY="0" frameWidth="410" frameHeight="396" />
+<SubTexture name="BF idle dance white0001" x="2964" y="477" width="410" height="396" frameX="0" frameY="0" frameWidth="410" frameHeight="396" />
+<SubTexture name="BF idle dance white0002" x="412" y="954" width="412" height="397" frameX="0" frameY="0" frameWidth="412" frameHeight="397" />
+<SubTexture name="BF idle dance white0003" x="412" y="954" width="412" height="397" frameX="0" frameY="0" frameWidth="412" frameHeight="397" />
+<SubTexture name="BF idle dance white0004" x="821" y="954" width="409" height="402" frameX="0" frameY="0" frameWidth="409" frameHeight="402" />
+<SubTexture name="BF idle dance white0005" x="821" y="954" width="409" height="402" frameX="0" frameY="0" frameWidth="409" frameHeight="402" />
+<SubTexture name="BF idle dance white0006" x="1235" y="954" width="414" height="415" frameX="0" frameY="0" frameWidth="414" frameHeight="415" />
+<SubTexture name="BF idle dance white0007" x="1235" y="954" width="414" height="415" frameX="0" frameY="0" frameWidth="414" frameHeight="415" />
+<SubTexture name="BF idle dance white0008" x="1647" y="954" width="412" height="416" frameX="0" frameY="0" frameWidth="412" frameHeight="416" />
+<SubTexture name="BF idle dance white0009" x="1647" y="954" width="412" height="416" frameX="0" frameY="0" frameWidth="412" frameHeight="416" />
+<SubTexture name="BF idle dance white0010" x="1647" y="954" width="412" height="416" frameX="0" frameY="0" frameWidth="412" frameHeight="416" />
+<SubTexture name="BF idle dance white0011" x="1647" y="954" width="412" height="416" frameX="0" frameY="0" frameWidth="412" frameHeight="416" />
+<SubTexture name="BF idle dance white0012" x="1647" y="954" width="412" height="416" frameX="0" frameY="0" frameWidth="412" frameHeight="416" />
+<SubTexture name="BF idle dance white0013" x="1647" y="954" width="412" height="416" frameX="0" frameY="0" frameWidth="412" frameHeight="416" />
+<SubTexture name="Dad idle dance BLACK LINE0000" x="2080" y="954" width="433" height="763" frameX="0" frameY="0" frameWidth="433" frameHeight="763" />
+<SubTexture name="Dad idle dance BLACK LINE0001" x="2080" y="954" width="433" height="763" frameX="0" frameY="0" frameWidth="433" frameHeight="763" />
+<SubTexture name="Dad idle dance BLACK LINE0002" x="2508" y="954" width="428" height="761" frameX="0" frameY="0" frameWidth="428" frameHeight="761" />
+<SubTexture name="Dad idle dance BLACK LINE0003" x="2508" y="954" width="428" height="761" frameX="0" frameY="0" frameWidth="428" frameHeight="761" />
+<SubTexture name="Dad idle dance BLACK LINE0004" x="2935" y="954" width="427" height="763" frameX="0" frameY="0" frameWidth="427" frameHeight="763" />
+<SubTexture name="Dad idle dance BLACK LINE0005" x="2935" y="954" width="427" height="763" frameX="0" frameY="0" frameWidth="427" frameHeight="763" />
+<SubTexture name="Dad idle dance BLACK LINE0006" x="3358" y="954" width="423" height="770" frameX="0" frameY="0" frameWidth="423" frameHeight="770" />
+<SubTexture name="Dad idle dance BLACK LINE0007" x="3358" y="954" width="423" height="770" frameX="0" frameY="0" frameWidth="423" frameHeight="770" />
+<SubTexture name="Dad idle dance BLACK LINE0008" x="423" y="1724" width="423" height="771" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="Dad idle dance BLACK LINE0009" x="423" y="1724" width="423" height="771" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="Dad idle dance BLACK LINE0010" x="846" y="1724" width="423" height="771" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="Dad idle dance BLACK LINE0011" x="846" y="1724" width="423" height="771" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="Dad idle dance BLACK LINE0012" x="846" y="1724" width="423" height="771" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="Dad idle dance BLACK LINE0013" x="846" y="1724" width="423" height="771" frameX="0" frameY="0" frameWidth="423" frameHeight="771" />
+<SubTexture name="GF Dancing Beat WHITE0000" x="1549" y="1724" width="703" height="638" frameX="0" frameY="0" frameWidth="703" frameHeight="638" />
+<SubTexture name="GF Dancing Beat WHITE0001" x="2256" y="1724" width="707" height="638" frameX="0" frameY="0" frameWidth="707" frameHeight="638" />
+<SubTexture name="GF Dancing Beat WHITE0002" x="2963" y="1724" width="707" height="636" frameX="0" frameY="0" frameWidth="707" frameHeight="636" />
+<SubTexture name="GF Dancing Beat WHITE0003" x="3666" y="1724" width="703" height="636" frameX="0" frameY="0" frameWidth="703" frameHeight="636" />
+<SubTexture name="GF Dancing Beat WHITE0004" x="4369" y="1724" width="703" height="639" frameX="0" frameY="0" frameWidth="703" frameHeight="639" />
+<SubTexture name="GF Dancing Beat WHITE0005" x="5072" y="1724" width="703" height="639" frameX="0" frameY="0" frameWidth="703" frameHeight="639" />
+<SubTexture name="GF Dancing Beat WHITE0006" x="703" y="2495" width="703" height="641" frameX="0" frameY="0" frameWidth="703" frameHeight="641" />
+<SubTexture name="GF Dancing Beat WHITE0007" x="1406" y="2495" width="703" height="652" frameX="0" frameY="0" frameWidth="703" frameHeight="652" />
+<SubTexture name="GF Dancing Beat WHITE0008" x="1406" y="2495" width="703" height="652" frameX="0" frameY="0" frameWidth="703" frameHeight="652" />
+<SubTexture name="GF Dancing Beat WHITE0009" x="1406" y="2495" width="703" height="652" frameX="0" frameY="0" frameWidth="703" frameHeight="652" />
+<SubTexture name="GF Dancing Beat WHITE0010" x="2109" y="2495" width="703" height="652" frameX="0" frameY="0" frameWidth="703" frameHeight="652" />
+<SubTexture name="GF Dancing Beat WHITE0011" x="2109" y="2495" width="703" height="652" frameX="0" frameY="0" frameWidth="703" frameHeight="652" />
+<SubTexture name="GF Dancing Beat WHITE0012" x="2109" y="2495" width="703" height="652" frameX="0" frameY="0" frameWidth="703" frameHeight="652" />
+<SubTexture name="GF Dancing Beat WHITE0013" x="2812" y="2495" width="703" height="652" frameX="0" frameY="0" frameWidth="703" frameHeight="652" />
+<SubTexture name="GF Dancing Beat WHITE0014" x="2812" y="2495" width="703" height="652" frameX="0" frameY="0" frameWidth="703" frameHeight="652" />
+<SubTexture name="GF Dancing Beat WHITE0015" x="3515" y="2495" width="703" height="640" frameX="0" frameY="0" frameWidth="703" frameHeight="640" />
+<SubTexture name="GF Dancing Beat WHITE0016" x="4222" y="2495" width="707" height="640" frameX="0" frameY="0" frameWidth="707" frameHeight="640" />
+<SubTexture name="GF Dancing Beat WHITE0017" x="4929" y="2495" width="707" height="640" frameX="0" frameY="0" frameWidth="707" frameHeight="640" />
+<SubTexture name="GF Dancing Beat WHITE0018" x="5632" y="2495" width="703" height="640" frameX="0" frameY="0" frameWidth="703" frameHeight="640" />
+<SubTexture name="GF Dancing Beat WHITE0019" x="703" y="3147" width="703" height="641" frameX="0" frameY="0" frameWidth="703" frameHeight="641" />
+<SubTexture name="GF Dancing Beat WHITE0020" x="1406" y="3147" width="703" height="641" frameX="0" frameY="0" frameWidth="703" frameHeight="641" />
+<SubTexture name="GF Dancing Beat WHITE0021" x="2109" y="3147" width="703" height="642" frameX="0" frameY="0" frameWidth="703" frameHeight="642" />
+<SubTexture name="GF Dancing Beat WHITE0022" x="2812" y="3147" width="703" height="647" frameX="0" frameY="0" frameWidth="703" frameHeight="647" />
+<SubTexture name="GF Dancing Beat WHITE0023" x="2812" y="3147" width="703" height="647" frameX="0" frameY="0" frameWidth="703" frameHeight="647" />
+<SubTexture name="GF Dancing Beat WHITE0024" x="2812" y="3147" width="703" height="647" frameX="0" frameY="0" frameWidth="703" frameHeight="647" />
+<SubTexture name="GF Dancing Beat WHITE0025" x="3515" y="3147" width="703" height="646" frameX="0" frameY="0" frameWidth="703" frameHeight="646" />
+<SubTexture name="GF Dancing Beat WHITE0026" x="3515" y="3147" width="703" height="646" frameX="0" frameY="0" frameWidth="703" frameHeight="646" />
+<SubTexture name="GF Dancing Beat WHITE0027" x="3515" y="3147" width="703" height="646" frameX="0" frameY="0" frameWidth="703" frameHeight="646" />
+<SubTexture name="GF Dancing Beat WHITE0028" x="4218" y="3147" width="703" height="646" frameX="0" frameY="0" frameWidth="703" frameHeight="646" />
+<SubTexture name="GF Dancing Beat WHITE0029" x="4218" y="3147" width="703" height="646" frameX="0" frameY="0" frameWidth="703" frameHeight="646" />
+<SubTexture name="Mom Idle BLACK LINES0000" x="4608" y="3147" width="390" height="830" frameX="0" frameY="0" frameWidth="390" frameHeight="830" />
+<SubTexture name="Mom Idle BLACK LINES0001" x="4608" y="3147" width="390" height="830" frameX="0" frameY="0" frameWidth="390" frameHeight="830" />
+<SubTexture name="Mom Idle BLACK LINES0002" x="4998" y="3147" width="390" height="819" frameX="0" frameY="0" frameWidth="390" frameHeight="819" />
+<SubTexture name="Mom Idle BLACK LINES0003" x="4998" y="3147" width="390" height="819" frameX="0" frameY="0" frameWidth="390" frameHeight="819" />
+<SubTexture name="Mom Idle BLACK LINES0004" x="390" y="3977" width="390" height="826" frameX="0" frameY="0" frameWidth="390" frameHeight="826" />
+<SubTexture name="Mom Idle BLACK LINES0005" x="390" y="3977" width="390" height="826" frameX="0" frameY="0" frameWidth="390" frameHeight="826" />
+<SubTexture name="Mom Idle BLACK LINES0006" x="780" y="3977" width="390" height="828" frameX="0" frameY="0" frameWidth="390" frameHeight="828" />
+<SubTexture name="Mom Idle BLACK LINES0007" x="780" y="3977" width="390" height="828" frameX="0" frameY="0" frameWidth="390" frameHeight="828" />
+<SubTexture name="Mom Idle BLACK LINES0008" x="1170" y="3977" width="390" height="832" frameX="0" frameY="0" frameWidth="390" frameHeight="832" />
+<SubTexture name="Mom Idle BLACK LINES0009" x="1170" y="3977" width="390" height="832" frameX="0" frameY="0" frameWidth="390" frameHeight="832" />
+<SubTexture name="Mom Idle BLACK LINES0010" x="1560" y="3977" width="390" height="833" frameX="0" frameY="0" frameWidth="390" frameHeight="833" />
+<SubTexture name="Mom Idle BLACK LINES0011" x="1560" y="3977" width="390" height="833" frameX="0" frameY="0" frameWidth="390" frameHeight="833" />
+<SubTexture name="Mom Idle BLACK LINES0012" x="1950" y="3977" width="390" height="833" frameX="0" frameY="0" frameWidth="390" frameHeight="833" />
+<SubTexture name="Mom Idle BLACK LINES0013" x="1950" y="3977" width="390" height="833" frameX="0" frameY="0" frameWidth="390" frameHeight="833" />
+<SubTexture name="Parent Christmas Idle Black Lines0000" x="2827" y="3977" width="877" height="781" frameX="0" frameY="0" frameWidth="877" frameHeight="781" />
+<SubTexture name="Parent Christmas Idle Black Lines0001" x="2827" y="3977" width="877" height="781" frameX="0" frameY="0" frameWidth="877" frameHeight="781" />
+<SubTexture name="Parent Christmas Idle Black Lines0002" x="3707" y="3977" width="880" height="764" frameX="0" frameY="0" frameWidth="880" frameHeight="764" />
+<SubTexture name="Parent Christmas Idle Black Lines0003" x="3707" y="3977" width="880" height="764" frameX="0" frameY="0" frameWidth="880" frameHeight="764" />
+<SubTexture name="Parent Christmas Idle Black Lines0004" x="4588" y="3977" width="881" height="770" frameX="0" frameY="0" frameWidth="881" frameHeight="770" />
+<SubTexture name="Parent Christmas Idle Black Lines0005" x="4588" y="3977" width="881" height="770" frameX="0" frameY="0" frameWidth="881" frameHeight="770" />
+<SubTexture name="Parent Christmas Idle Black Lines0006" x="870" y="4810" width="870" height="781" frameX="0" frameY="0" frameWidth="870" frameHeight="781" />
+<SubTexture name="Parent Christmas Idle Black Lines0007" x="870" y="4810" width="870" height="781" frameX="0" frameY="0" frameWidth="870" frameHeight="781" />
+<SubTexture name="Parent Christmas Idle Black Lines0008" x="1739" y="4810" width="869" height="785" frameX="0" frameY="0" frameWidth="869" frameHeight="785" />
+<SubTexture name="Parent Christmas Idle Black Lines0009" x="1739" y="4810" width="869" height="785" frameX="0" frameY="0" frameWidth="869" frameHeight="785" />
+<SubTexture name="Parent Christmas Idle Black Lines0010" x="2608" y="4810" width="869" height="786" frameX="0" frameY="0" frameWidth="869" frameHeight="786" />
+<SubTexture name="Parent Christmas Idle Black Lines0011" x="2608" y="4810" width="869" height="786" frameX="0" frameY="0" frameWidth="869" frameHeight="786" />
+<SubTexture name="Parent Christmas Idle Black Lines0012" x="2608" y="4810" width="869" height="786" frameX="0" frameY="0" frameWidth="869" frameHeight="786" />
+<SubTexture name="Parent Christmas Idle Black Lines0013" x="2608" y="4810" width="869" height="786" frameX="0" frameY="0" frameWidth="869" frameHeight="786" />
+<SubTexture name="Pico Idle Dance0000" x="3047" y="4810" width="439" height="465" frameX="0" frameY="0" frameWidth="439" frameHeight="465" />
+<SubTexture name="Pico Idle Dance0001" x="3047" y="4810" width="439" height="465" frameX="0" frameY="0" frameWidth="439" frameHeight="465" />
+<SubTexture name="Pico Idle Dance0002" x="3493" y="4810" width="446" height="472" frameX="0" frameY="0" frameWidth="446" frameHeight="472" />
+<SubTexture name="Pico Idle Dance0003" x="3493" y="4810" width="446" height="472" frameX="0" frameY="0" frameWidth="446" frameHeight="472" />
+<SubTexture name="Pico Idle Dance0004" x="3945" y="4810" width="452" height="473" frameX="0" frameY="0" frameWidth="452" frameHeight="473" />
+<SubTexture name="Pico Idle Dance0005" x="4393" y="4810" width="448" height="473" frameX="0" frameY="0" frameWidth="448" frameHeight="473" />
+<SubTexture name="Pico Idle Dance0006" x="4841" y="4810" width="448" height="478" frameX="0" frameY="0" frameWidth="448" frameHeight="478" />
+<SubTexture name="Pico Idle Dance0007" x="446" y="5596" width="446" height="478" frameX="0" frameY="0" frameWidth="446" frameHeight="478" />
+<SubTexture name="Pico Idle Dance0008" x="893" y="5596" width="447" height="479" frameX="0" frameY="0" frameWidth="447" frameHeight="479" />
+<SubTexture name="Pico Idle Dance0009" x="893" y="5596" width="447" height="479" frameX="0" frameY="0" frameWidth="447" frameHeight="479" />
+<SubTexture name="Pico Idle Dance0010" x="893" y="5596" width="447" height="479" frameX="0" frameY="0" frameWidth="447" frameHeight="479" />
+<SubTexture name="Pico Idle Dance0011" x="893" y="5596" width="447" height="479" frameX="0" frameY="0" frameWidth="447" frameHeight="479" />
+<SubTexture name="Pico Idle Dance0012" x="893" y="5596" width="447" height="479" frameX="0" frameY="0" frameWidth="447" frameHeight="479" />
+<SubTexture name="Pico Idle Dance0013" x="893" y="5596" width="447" height="479" frameX="0" frameY="0" frameWidth="447" frameHeight="479" />
+<SubTexture name="SENPAI idle Black Lines0000" x="1233" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0001" x="1233" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0002" x="1573" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0003" x="1573" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0004" x="1913" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0005" x="1913" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0006" x="2253" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0007" x="2253" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0008" x="2593" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0009" x="2593" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0010" x="2593" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0011" x="2593" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0012" x="2593" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="SENPAI idle Black Lines0013" x="2593" y="5596" width="340" height="292" frameX="0" frameY="0" frameWidth="340" frameHeight="292" />
+<SubTexture name="spooky dance idle BLACK LINES0000" x="2978" y="5596" width="385" height="553" frameX="0" frameY="0" frameWidth="385" frameHeight="553" />
+<SubTexture name="spooky dance idle BLACK LINES0001" x="2978" y="5596" width="385" height="553" frameX="0" frameY="0" frameWidth="385" frameHeight="553" />
+<SubTexture name="spooky dance idle BLACK LINES0002" x="383" y="6149" width="383" height="545" frameX="0" frameY="0" frameWidth="383" frameHeight="545" />
+<SubTexture name="spooky dance idle BLACK LINES0003" x="383" y="6149" width="383" height="545" frameX="0" frameY="0" frameWidth="383" frameHeight="545" />
+<SubTexture name="spooky dance idle BLACK LINES0004" x="744" y="6149" width="361" height="488" frameX="0" frameY="0" frameWidth="361" frameHeight="488" />
+<SubTexture name="spooky dance idle BLACK LINES0005" x="744" y="6149" width="361" height="488" frameX="0" frameY="0" frameWidth="361" frameHeight="488" />
+<SubTexture name="spooky dance idle BLACK LINES0012" x="744" y="6149" width="361" height="488" frameX="0" frameY="0" frameWidth="361" frameHeight="488" />
+<SubTexture name="spooky dance idle BLACK LINES0013" x="744" y="6149" width="361" height="488" frameX="0" frameY="0" frameWidth="361" frameHeight="488" />
+<SubTexture name="spooky dance idle BLACK LINES0006" x="1102" y="6149" width="358" height="498" frameX="0" frameY="0" frameWidth="358" frameHeight="498" />
+<SubTexture name="spooky dance idle BLACK LINES0007" x="1102" y="6149" width="358" height="498" frameX="0" frameY="0" frameWidth="358" frameHeight="498" />
+<SubTexture name="spooky dance idle BLACK LINES0014" x="1102" y="6149" width="358" height="498" frameX="0" frameY="0" frameWidth="358" frameHeight="498" />
+<SubTexture name="spooky dance idle BLACK LINES0015" x="1102" y="6149" width="358" height="498" frameX="0" frameY="0" frameWidth="358" frameHeight="498" />
+<SubTexture name="spooky dance idle BLACK LINES0008" x="1598" y="6149" width="496" height="536" frameX="0" frameY="0" frameWidth="496" frameHeight="536" />
+<SubTexture name="spooky dance idle BLACK LINES0009" x="1598" y="6149" width="496" height="536" frameX="0" frameY="0" frameWidth="496" frameHeight="536" />
+<SubTexture name="spooky dance idle BLACK LINES0010" x="2083" y="6149" width="485" height="528" frameX="0" frameY="0" frameWidth="485" frameHeight="528" />
+<SubTexture name="spooky dance idle BLACK LINES0011" x="2083" y="6149" width="485" height="528" frameX="0" frameY="0" frameWidth="485" frameHeight="528" />
+</TextureAtlas>
