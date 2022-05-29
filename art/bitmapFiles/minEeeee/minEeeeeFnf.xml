@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minEeeeeFnf.png">
+<SubTexture name="minEeeeeFnf idle0000" x="0" y="0" width="341" height="273" frameX="0" frameY="0" frameWidth="341" frameHeight="273" />
+<SubTexture name="minEeeeeFnf idle0001" x="341" y="0" width="341" height="278" frameX="0" frameY="0" frameWidth="341" frameHeight="278" />
+<SubTexture name="minEeeeeFnf idle0002" x="682" y="0" width="341" height="283" frameX="0" frameY="0" frameWidth="341" frameHeight="283" />
+<SubTexture name="minEeeeeFnf idle0003" x="1023" y="0" width="341" height="288" frameX="0" frameY="0" frameWidth="341" frameHeight="288" />
+<SubTexture name="minEeeeeFnf idle0004" x="0" y="288" width="341" height="293" frameX="0" frameY="0" frameWidth="341" frameHeight="293" />
+<SubTexture name="minEeeeeFnf Left0000" x="341" y="288" width="351" height="293" frameX="0" frameY="0" frameWidth="351" frameHeight="293" />
+<SubTexture name="minEeeeeFnf Left0001" x="692" y="288" width="347" height="293" frameX="0" frameY="0" frameWidth="347" frameHeight="293" />
+<SubTexture name="minEeeeeFnf Left0002" x="1039" y="288" width="341" height="293" frameX="0" frameY="0" frameWidth="341" frameHeight="293" />
+<SubTexture name="minEeeeeFnf Down0000" x="0" y="581" width="341" height="293" frameX="0" frameY="0" frameWidth="341" frameHeight="293" />
+<SubTexture name="minEeeeeFnf Down0001" x="341" y="581" width="341" height="293" frameX="0" frameY="0" frameWidth="341" frameHeight="293" />
+<SubTexture name="minEeeeeFnf Down0002" x="682" y="581" width="341" height="293" frameX="0" frameY="0" frameWidth="341" frameHeight="293" />
+<SubTexture name="minEeeeeFnf miss0000" x="1023" y="581" width="341" height="293" frameX="0" frameY="0" frameWidth="341" frameHeight="293" />
+<SubTexture name="minEeeeeFnf miss0001" x="0" y="874" width="341" height="288" frameX="0" frameY="0" frameWidth="341" frameHeight="288" />
+<SubTexture name="minEeeeeFnf right0000" x="341" y="874" width="357" height="294" frameX="0" frameY="0" frameWidth="357" frameHeight="294" />
+<SubTexture name="minEeeeeFnf right0001" x="698" y="874" width="349" height="294" frameX="0" frameY="0" frameWidth="349" frameHeight="294" />
+<SubTexture name="minEeeeeFnf right0002" x="1047" y="874" width="341" height="293" frameX="0" frameY="0" frameWidth="341" frameHeight="293" />
+<SubTexture name="minEeeeeFnf up0000" x="0" y="1168" width="341" height="305" frameX="0" frameY="0" frameWidth="341" frameHeight="305" />
+<SubTexture name="minEeeeeFnf up0001" x="341" y="1168" width="341" height="300" frameX="0" frameY="0" frameWidth="341" frameHeight="300" />
+<SubTexture name="minEeeeeFnf up0002" x="682" y="1168" width="341" height="293" frameX="0" frameY="0" frameWidth="341" frameHeight="293" />
+</TextureAtlas>

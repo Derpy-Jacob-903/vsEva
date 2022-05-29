@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Reevee.png"><SubTexture name="Reevee down0000" x="0" y="0" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee down0001" x="350" y="0" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee down0002" x="700" y="0" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee idle0000" x="700" y="568" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee idle0001" x="350" y="568" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee idle0002" x="0" y="568" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee left0000" x="0" y="1136" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee up0000" x="350" y="1136" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee up0001" x="700" y="1136" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee right0000" x="0" y="1704" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+<SubTexture name="Reevee right0001" x="350" y="1704" width="350" height="568" frameX="0" frameY="0" frameWidth="350" frameHeight="568" />
+</TextureAtlas>
